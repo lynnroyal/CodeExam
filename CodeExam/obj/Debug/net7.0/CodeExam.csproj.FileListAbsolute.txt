@@ -1,0 +1,15 @@
+/Users/lynn/project/lynn/CodeExam/CodeExam/bin/Debug/net7.0/CodeExam
+/Users/lynn/project/lynn/CodeExam/CodeExam/bin/Debug/net7.0/CodeExam.deps.json
+/Users/lynn/project/lynn/CodeExam/CodeExam/bin/Debug/net7.0/CodeExam.runtimeconfig.json
+/Users/lynn/project/lynn/CodeExam/CodeExam/bin/Debug/net7.0/CodeExam.dll
+/Users/lynn/project/lynn/CodeExam/CodeExam/bin/Debug/net7.0/CodeExam.pdb
+/Users/lynn/project/lynn/CodeExam/CodeExam/obj/Debug/net7.0/CodeExam.csproj.AssemblyReference.cache
+/Users/lynn/project/lynn/CodeExam/CodeExam/obj/Debug/net7.0/CodeExam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lynn/project/lynn/CodeExam/CodeExam/obj/Debug/net7.0/CodeExam.AssemblyInfoInputs.cache
+/Users/lynn/project/lynn/CodeExam/CodeExam/obj/Debug/net7.0/CodeExam.AssemblyInfo.cs
+/Users/lynn/project/lynn/CodeExam/CodeExam/obj/Debug/net7.0/CodeExam.csproj.CoreCompileInputs.cache
+/Users/lynn/project/lynn/CodeExam/CodeExam/obj/Debug/net7.0/CodeExam.dll
+/Users/lynn/project/lynn/CodeExam/CodeExam/obj/Debug/net7.0/refint/CodeExam.dll
+/Users/lynn/project/lynn/CodeExam/CodeExam/obj/Debug/net7.0/CodeExam.pdb
+/Users/lynn/project/lynn/CodeExam/CodeExam/obj/Debug/net7.0/CodeExam.genruntimeconfig.cache
+/Users/lynn/project/lynn/CodeExam/CodeExam/obj/Debug/net7.0/ref/CodeExam.dll
